@@ -1,0 +1,9 @@
+C:\Users\yuuah\Downloads\Repos\NubescoEditor\NubescoEditor\bin\Debug\NubescoEditor.exe.config
+C:\Users\yuuah\Downloads\Repos\NubescoEditor\NubescoEditor\bin\Debug\NubescoEditor.exe
+C:\Users\yuuah\Downloads\Repos\NubescoEditor\NubescoEditor\bin\Debug\NubescoEditor.pdb
+C:\Users\yuuah\Downloads\Repos\NubescoEditor\NubescoEditor\obj\Debug\NubescoEditor.csprojAssemblyReference.cache
+C:\Users\yuuah\Downloads\Repos\NubescoEditor\NubescoEditor\obj\Debug\NubescoEditor.Form1.resources
+C:\Users\yuuah\Downloads\Repos\NubescoEditor\NubescoEditor\obj\Debug\NubescoEditor.Properties.Resources.resources
+C:\Users\yuuah\Downloads\Repos\NubescoEditor\NubescoEditor\obj\Debug\NubescoEditor.csproj.GenerateResource.cache
+C:\Users\yuuah\Downloads\Repos\NubescoEditor\NubescoEditor\obj\Debug\NubescoEditor.exe
+C:\Users\yuuah\Downloads\Repos\NubescoEditor\NubescoEditor\obj\Debug\NubescoEditor.pdb
